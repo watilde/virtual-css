@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/watilde/virtual-css/issues"
   },
-  "homepage": "https://github.com/watilde/virtual-css"
+  "homepage": "https://github.com/watilde/virtual-css",
+  "dependencies": {
+    "css": "^2.2.0"
+  }
 }
